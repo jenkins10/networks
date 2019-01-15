@@ -1,6 +1,6 @@
 # Educational Repository for NetworkX 
 
-Directories Structure:
+Directory Structure:
 - Hamiltonian_Knight
 - utils
 
